@@ -246,10 +246,7 @@ orionAI/
 
 ### Environment Configuration
 
-1. Copy `.env.example` to `.env`:
-   ```powershell
-   Copy-Item .env.example .env
-   ```
+1. Create a `.env` file in the root directory:
 2. Configure your secret keys inside `.env`:
    ```ini
    # Master Security Keys
