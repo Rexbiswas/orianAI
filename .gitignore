@@ -32,7 +32,6 @@ dist_electron
 # Next.js build outputs
 .next/
 out/
-
 .vercel
 
 # Python
